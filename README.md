@@ -229,7 +229,7 @@ cd code/ && # 选择对应的代码示例进行实践
 
 ### 📝 系统化面试准备
 - **[面试准备中心](./interviews/)** - 完整的面试准备平台
-- **技术题库** - 59道精选面试题，覆盖6大技术领域
+- **技术题库** - 69道精选面试题，覆盖7大技术领域
 - **难度分级** - ⭐⭐⭐ 到 ⭐⭐⭐⭐⭐，循序渐进
 - **实战经验** - 字节跳动、猿辅导等公司真实面试经验
 
@@ -242,6 +242,7 @@ cd code/ && # 选择对应的代码示例进行实践
 | [编程技术](./interviews/questions/programming.md) | 10题 | 开发/SRE | 4-5小时 |
 | [系统设计](./interviews/questions/system-design.md) | 10题 | 高级岗位 | 5-6小时 |
 | [案例分析](./interviews/questions/case-studies.md) | 8题 | 高级岗位 | 4-5小时 |
+| [逻辑算法](./interviews/questions/logic-puzzles.md) | 10题 | 所有岗位 | 3-4小时 |
 
 ## 🚀 项目特色
 
